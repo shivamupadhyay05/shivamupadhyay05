@@ -61,5 +61,5 @@
 ---
 
 ### ✍️ Blog or Portfolio
-- 🖥️ Portfolio: [https://your-portfolio-link.com](https://my-portfolio-css-chi.vercel.app/)
-- ✍️ Blog: [https://your-blog-link.com](https://your-blog-link.com)
+- 🖥️ Portfolio: my portfolio (https://my-portfolio-css-chi.vercel.app/)
+- ✍️ Blog: my blog page (https://your-blog-link.com)
